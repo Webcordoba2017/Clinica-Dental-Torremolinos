@@ -47,7 +47,7 @@
 		        receivedElement.setAttribute('style', 'display:block;');
 
 
-		        //initAd();
+		        
 				
 
 				 console.log('Received Event: ' + id);
